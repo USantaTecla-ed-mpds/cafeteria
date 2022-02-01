@@ -4,12 +4,6 @@ Universo Santa Tecla
 
 ## index
 
-* [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
-    * [initialState](#initialState)  
-    * [finalState](#finalState)
-    * [instructions](#instructions)  
-
 ## domainModel  
 
 ![connect4](./docs/images/conecta4.jpg)  
