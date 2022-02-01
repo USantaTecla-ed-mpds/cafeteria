@@ -13,10 +13,10 @@ Universo Santa Tecla
 [Youtube](https://www.youtube.com/watch?v=JBSbiilzg9U)
 
  
-  ## Críticas   
+## Críticas   
 
 
-  ###  lab-turing
+###  lab-turing
 
 * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  
@@ -24,7 +24,7 @@ Universo Santa Tecla
     * [finalState](#finalState)
     * [instructions](#instructions)
 
-  ### lab-dijkstra 
+### lab-dijkstra 
 
   * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  
@@ -33,7 +33,7 @@ Universo Santa Tecla
     * [instructions](#instructions)
 
     
-  ###  lab-lovalace 
+###  lab-lovalace 
 
   * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  
@@ -42,7 +42,7 @@ Universo Santa Tecla
     * [instructions](#instructions)
 
     
-  ###  lab-chomsky
+###  lab-chomsky
 
   * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  

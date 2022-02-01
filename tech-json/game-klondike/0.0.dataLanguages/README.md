@@ -4,3 +4,22 @@ Universo Santa Tecla
   
 ## requirements 
 
+
+## Críticas   
+
+
+###  lab-turing
+
+
+### lab-dijkstra 
+
+
+    
+###  lab-lovalace 
+
+
+
+    
+###  lab-chomsky
+
+
