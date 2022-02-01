@@ -16,21 +16,41 @@ Universo Santa Tecla
 [WIKI](https://en.wikipedia.org/wiki/Chess)
 
 [Youtube](https://www.youtube.com/watch?v=soEAyjaeF-w)
-### vocabulary
 
-![Vocabulario]()  
   
-### initialState  
-  
-![Estado_inicial]()  
-  
-### finalState 
+  ## Críticas   
 
-![Estado_final]()  
-  
-### instructions  
-  
-![Instrucciones]()  
-  
-![Instrucciones]()  
-  
+
+  ###  lab-turing
+
+* [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)
+
+  ### lab-dijkstra 
+
+  * [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)
+
+    
+  ###  lab-lovalace 
+
+  * [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)
+
+    
+  ###  lab-chomsky
+
+  * [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)
