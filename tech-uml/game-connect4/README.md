@@ -32,7 +32,9 @@ Universo Santa Tecla
     * [initialState](#initialState)
       ![initialState](./docs/images/lab-dijkstra/initialState.png)    
     * [finalState](#finalState)
+      ![finalState](./docs/images/lab-dijkstra/FinalState.png)
     * [instructions](#instructions)
+      Instrucciones OK.
 
     
 ###  lab-lovalace 
