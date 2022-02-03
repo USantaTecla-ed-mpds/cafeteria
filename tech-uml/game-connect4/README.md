@@ -27,8 +27,7 @@ Universo Santa Tecla
 ### lab-dijkstra 
 
   * [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
-      [Vocabulary](/images/lab-dijkstra/Vocabulary.png)
+    * [vocabulary](./docs/images/lab-dijkstra/Vocabulary.png)  
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)
