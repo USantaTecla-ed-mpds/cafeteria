@@ -19,7 +19,7 @@ Universo Santa Tecla
 ###  lab-turing
 
 * [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
+    * [vocabulary](#vocabulary)
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)
@@ -29,7 +29,8 @@ Universo Santa Tecla
   * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  
       ![vocabulary](./docs/images/lab-dijkstra/Vocabulary.png)
-    * [initialState](#initialState)  
+    * [initialState](#initialState)
+      ![initialState](./docs/images/lab-dijkstra/initialState.png)    
     * [finalState](#finalState)
     * [instructions](#instructions)
 
