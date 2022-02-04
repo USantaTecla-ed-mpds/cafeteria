@@ -68,7 +68,13 @@ Universo Santa Tecla
 ###  lab-lovalace 
 
   * [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
+    * [vocabulary](#vocabulary) 
+
+
+      ACLARACION: SOY EL CRITICO DE lab-chomsky PERO NO HAN COLGADO SOLUCION ALGUNA. COMO SE TRATA DE APRENDER Y EQUIVOCARNOS, ME HE PUESTO A ANALIZAR LA SOLUCION DEL COMPAÑERO DEL LABORATORIO DE AL LADO. DEJO LA COMPARATICA DE LO QUE, A MI CRITERIO, ES CORREGIBLE.
+      
+      ![vocabulary](./docs/images/critica_lovalace_vocabulary.jpg)
+      
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)
