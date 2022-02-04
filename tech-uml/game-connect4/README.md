@@ -70,7 +70,7 @@ Universo Santa Tecla
   * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary) 
     
-      ![vocabulary](./docs/images/criticaLovalaceVocabulary.jpg)
+      ![vocabulary](./docs/images/criticalovalacevocabulary.jpg)
 
       ACLARACION: SOY EL CRITICO DE lab-chomsky PERO NO HAN COLGADO SOLUCION ALGUNA. COMO SE TRATA DE APRENDER Y EQUIVOCARNOS, ME HE PUESTO A ANALIZAR LA SOLUCION DEL COMPAÑERO DEL LABORATORIO DE AL LADO. DEJO LA COMPARATICA DE LO QUE, A MI CRITERIO, ES CORREGIBLE.
       
