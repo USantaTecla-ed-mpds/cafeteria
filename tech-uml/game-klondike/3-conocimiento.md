@@ -63,5 +63,3 @@ Universo Santa Tecla
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)
-
-
