@@ -13,11 +13,11 @@ Universo Santa Tecla
 
 ## domainModel  
 
-![connect4](./docs/images/conecta4.jpg)  
+![klondike](./docs/images/klondike.png)  
 
-[WIKI](https://es.wikipedia.org/wiki/Conecta_4)
+[WIKI](https://es.wikipedia.org/wiki/Solitario_de_cartas)
 
-[Youtube](https://www.youtube.com/watch?v=JBSbiilzg9U)
+[Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)
 
 ## Críticas   
 
