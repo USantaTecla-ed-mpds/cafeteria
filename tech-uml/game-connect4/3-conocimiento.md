@@ -42,7 +42,13 @@ Universo Santa Tecla
 ###  lab-lovalace 
 
   * [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)
+    * [vocabulary](#vocabulary)s
+    <ol>
+      <li>Las clases tienen que estar en singular</li>
+      <li>Jerarquía de clasificación incorrecta, Pieces no comparte caracteristicas con Board y Color no comparte caracteristicas con Piezes, tienen una relación de composición. </li>
+      <li>Falta relación de  asociacion con Player y Pieces </li>
+      <li>Turn no tiene una asociación directa y publica con Goal, la asociación debe estar entre Player y Turn</li>
+    </ol>
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)
