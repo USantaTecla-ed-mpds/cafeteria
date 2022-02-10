@@ -58,9 +58,8 @@ Universo Santa Tecla
 
  ###  lab-boole
 
-   * [domainModel](#domainModel)  
+  * [domainModel](#domainModel)  
     * [vocabulary](#vocabulary)  
     * [initialState](#initialState)  
     * [finalState](#finalState)
-    
     * [instructions](#instructions)
