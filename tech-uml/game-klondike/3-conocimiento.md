@@ -24,7 +24,8 @@ Universo Santa Tecla
 
 ###  lab-turing
 
-  * [domainModel](#domainModel)  
+  * [domainModel](#domainModel) 
+   Practicamente toda la línea inferior serían atributos en lugar de clases y se sinplifica mucho todo el proceso.
     * [vocabulary](#vocabulary)
     * [initialState](#initialState)  
     * [finalState](#finalState)
