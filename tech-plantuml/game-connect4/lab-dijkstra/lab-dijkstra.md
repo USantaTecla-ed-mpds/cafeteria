@@ -19,7 +19,7 @@ Universo Santa Tecla
 - No diría que Conecta4 tiene N objetos **Turn** si no un objeto **Turn** que cambia de estado según el **Player** al que le toca insertar. 
 - Sacaría una relación de **Goal** a **Box** y a **Piece** en vez de hacerlo de cada subclase.
 - Diría que la relación entre **Player** y **Insertion** es de uso y no de asociación porque es efímera, el jugador hace una inserción en algún momento y se olvida de ella si no lleva la cuenta de las inserciones hechas
-- Como la clase **Goal** ya se relaciona con cuatro objetos **Insertion**, que a su vez se relacionan cada uno con una **Piece** y una **Box**, la relación entre los **Goal** con **Piece** y **Box** me resulta redundante. 
+- Como un objeto de la clase **Goal** ya se relaciona con cuatro objetos **Insertion**, que a su vez se relacionan cada uno con una **Piece** y una **Box**, la relación entre los **Goal** con **Piece** y **Box** me resulta redundante. 
 - No diría que un **conecta4** tiene un agregado de **Goal** / objetivos, si no que tiene un objetivo o mejor aún que cada jugador tiene un agregado de objetivos (el objetivo es el objetivo de los jugadores, y en cualquier momento de la partida cada jugador tiene alguna clase de objetivo en mente)
 - Echo de menos la información de que un jugador no puede insertar su ficha en cualquier casilla del tablero, tiene que hacerlo en una columna que no esté llena.
 - Falta indicar que algunas clases como **Goal** o **Piece** son abstractas
