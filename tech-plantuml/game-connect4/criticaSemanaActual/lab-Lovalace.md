@@ -15,7 +15,7 @@ s
 
 #### Vocabulary
 
-1. Yellow y Red es un valor de Disk no tiene un comportamiento distinto por ser amarillo o rojo, usar un enumerado para resaltarlo si es significante en el diagrama.
+1. Yellow y Red es un valor de Disk no tiene un comportamiento distinto por ser amarillo o rojo, usar un enumerado para resaltarlo.
 2. La relación de composición entre Disk y Goal es incorrecta porque indicas que un disco esta unido de forma privada, duradera e inherente a un objetivo, lo correcto es una relacion de uso ya que que un objetivo utiliza un disco para cumplir una labor.
 
 #### InitialState
