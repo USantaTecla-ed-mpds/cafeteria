@@ -18,15 +18,37 @@ Universo Santa Tecla
 
 [Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)
 
+
+## domainModel  
+## Críticas   
+
+
+###  lab-turing
+
+
+### lab-dijkstra 
+
+
+    
+###  lab-lovalace 
+
+ 
+###  lab-chomsky
+
 ### vocabulary
 
 ![Vocabulario](./docs/images/klondike-Klondike.svg)  
+1. La relación de asociación entre Movement y Pile está duplicado. Para indicar que un movimiento tiene un destino y origen es mejor con un diagrama de objetos.
   
 ### initialState  
+
+Nada que destacar.
   
 ![Estado_inicial]()  
   
 ### finalState 
+
+Nada que destacar.
 
 ![Estado_final]()  
   
