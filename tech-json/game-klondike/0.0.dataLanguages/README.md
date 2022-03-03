@@ -22,4 +22,5 @@ Universo Santa Tecla
     
 ###  lab-chomsky
 
+1. Player no es un elemento del nodo start, tiene que ser un elemento de la raiz para que la información este modularizada.
 
