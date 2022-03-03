@@ -21,4 +21,4 @@ Universo Santa Tecla
 
     
 ###  lab-chomsky
-
+1. Sintáxis incorrecta.
