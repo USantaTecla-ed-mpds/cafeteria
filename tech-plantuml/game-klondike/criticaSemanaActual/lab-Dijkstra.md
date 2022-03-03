@@ -2,16 +2,6 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
-## index
-
-* [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
-    * [initialState](#initialState)  
-    * [finalState](#finalState)
-    * [instructions](#instructions)  
-## domainModel  
-
-![klondike](../criticaSemanaAnterior/docs2/images/klondike.png)  
 
 ### vocabulary
 
@@ -21,9 +11,6 @@ Universo Santa Tecla
 - Se podrían relacionar las cardinalidades con el Rank y el Suit. RankCount en lugar de 13. SuitCount en vez de 4 (eso ya te diría que hay un Foundation por cada palo por ejemplo). RankCount * SuitCount en lugar de 52.
 - Pile tiene asociado el comportamiento validMove() pero un objeto de una subclase de Pile no tiene la información para llevarlo a cabo. validMove() sería del Move.
 
-[WIKI](https://es.wikipedia.org/wiki/Solitario_de_cartas)
-
-[Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)
 
 
 
