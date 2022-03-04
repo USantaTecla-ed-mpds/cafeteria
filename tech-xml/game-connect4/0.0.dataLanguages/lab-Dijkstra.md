@@ -22,6 +22,7 @@ Universo Santa Tecla
     	</hole>
     
 - Es el Connecta4 en lugar del TicTacToe.
+- Partida de Conecta4 (Connecta4Game) en vez de Connecta4
 
 ## Second state
 
