@@ -5,7 +5,7 @@ Universo Santa Tecla
 
 ### vocabulary
 
-- Falta la información de los movimientos
+- Faltan los tipos de movimientos (StockToWaste, TableauToTableau...).
 - No entiendo la relación de agregación Pile 0--> Card si las del Waste --> Card, Stock --> Card ... son de asociación.
 - Solo hay **13** cartas por palo pero Foundation o Move tienen relación 0..**14** con Card. 
 - Se podrían relacionar las cardinalidades con el Rank y el Suit. RankCount en lugar de 13. SuitCount en vez de 4 (eso ya te diría que hay un Foundation por cada palo por ejemplo). RankCount * SuitCount en lugar de 52.
