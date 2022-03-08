@@ -10,10 +10,10 @@ Universo Santa Tecla
     * [finalState](#finalState)
     * [instructions](#instructions)  
 
-    
+
 ## domainModel  
   
-![klondike](../criticaSemanaAnterior/docs2/images/klondike.png)  
+![klondike](../docs/images/klondike.png)  
 
 [WIKI](https://es.wikipedia.org/wiki/Solitario_de_cartas)
 
