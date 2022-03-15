@@ -21,7 +21,7 @@ Universo Santa Tecla
 
 ### vocabulary
 
-![Vocabulario]()  
+1. No existe diferencia entre Goal y Foundation, la anotación la puedes indicar que Foundation. 
   
 ### initialState  
   
