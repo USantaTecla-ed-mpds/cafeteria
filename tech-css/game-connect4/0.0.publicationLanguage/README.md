@@ -27,4 +27,4 @@ Universo Santa Tecla
 ###  lab-chomsky
 1. El enlace externo debe tener la ruta absuluta o relativa delante del fichero css por ejemplo href="./connect4.css" para evitar confunsión.
 2. Incorrecto valor en la propiedad grid-template-areas
-3. Alta probabilidad de colisión de estilos por especificidad debido a estilos con selector de nombre o pseudo-elemento, por ejemplo usas el selector "table, th, td" si a futuro se añade otra tabla con otros estilo existe colisión.
+3. Alta probabilidad de colisión de estilos por especificidad debido a estilos con selector de nombre o pseudo-elemento, por ejemplo usas el selector "table, th, td" si en el futuro se decide añadir otra tabla con otro diseño, existe colisión y retrabajo.
