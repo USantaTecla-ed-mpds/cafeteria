@@ -25,4 +25,8 @@ Universo Santa Tecla
 
     
 ###  lab-chomsky
+1. El código debe ser fluido y resuable entre otras caracteristicas más, por lo cual para crear el efecto de superposición de las cartas en lugar de ir seleccionando uno por uno los elementos li de la  pila podemos utilizar unas reglas de estilos generica, por ejemplo:
+ul.pile li:nth-child(1)  { margin: 0em; }
+ul.pile > li  { margin: -8em; }
 
+Con esto evitamos tener que modificar las reglas del estilo con JavaScript cada vez que se realice un movimiento. Por lo cual aqui estamos aplicando la fluidez antes cambio de estados y la reusabilidad del css.
