@@ -25,4 +25,6 @@ Universo Santa Tecla
 
     
 ###  lab-chomsky
-
+1. El enlace externo es aconsejable '<link rel="stylesheet" type="text/css" href="connect4.css" />' es aconsejable que el href tenga la ruta absuluta o relativa delante por ejemplo href="./connect4.css" para evitar confunsión.
+2. Incorrecto valor en la propiedad grid-template-areas
+3. Alta probabilidad de colisión de estilos por especificidad debido a estilos con selector de nombre o pseudo-elemento, por ejemplo usas el selector "table, th, td" si a futuro se añade otra tabla con otros estilo existe colisión.
